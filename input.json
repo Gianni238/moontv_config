@@ -533,19 +533,9 @@
       "is_adult": true
     },
     "112": {
-      "name": "🎬如意资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": "https://www.ryzyw.com"
-    },
-    "113": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "name": "非凡影视",
       "detail": "http://ffzy5.tv"
-    },
-    "114": {
-      "name": "雨哥哥资源",
-      "api": "http://cj.baozi66.top:66/api.php/provide/vod",
-      "detail": "http://cj.baozi66.top:66"
     }
   },
   "custom_category": [

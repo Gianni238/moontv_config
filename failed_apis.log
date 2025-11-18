@@ -11050,3 +11050,10 @@
 [2025-11-17 02:07:52] https://www.huyaapi.com/api.php/provide/vod - Status 520
 [2025-11-17 02:07:52] https://www.huyaapi.com/api.php/provide/vod/ - Status 520
 [2025-11-17 02:07:56] https://zy.hls.one/api.php/provide/vod - 
+[2025-11-18 02:06:16] http://154.219.117.232:9981/jacloudapi.php/provide/vod/ - Cannot connect to host 154.219.117.232:9981 ssl:default [Connect call failed ('154.219.117.232', 9981)]
+[2025-11-18 02:06:16] http://154.219.117.232:9981/jacloudapi.php/provide/vod - Cannot connect to host 154.219.117.232:9981 ssl:default [Connect call failed ('154.219.117.232', 9981)]
+[2025-11-18 02:06:21] https://api.ukuapi.com/api.php/provide/vod - 
+[2025-11-18 02:06:21] https://api.ukuapi88.com/api.php/provide/vod/?ac=list - 
+[2025-11-18 02:06:21] https://api.ukuapi88.com/api.php/provide/vod - 
+[2025-11-18 02:06:21] https://api.ukuapi.com/api.php/provide/vod/ - 
+[2025-11-18 02:06:21] https://vod.199301.xyz - 

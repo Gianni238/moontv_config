@@ -476,11 +476,6 @@
       "name": "🔞泡芙资源",
       "detail": "",
       "is_adult": true
-    },
-    "100": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
     }
   },
   "custom_category": [

@@ -546,19 +546,14 @@
       "name": "量子资源"
     },
     "114": {
-      "api": "https://len.tv/api.php/v1.vod",
-      "name": "冷视TV(普)",
-      "detail": "https://len.tv"
-    },
-    "115": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
     },
-    "116": {
+    "115": {
       "api": "https://subocj.com/api.php/provide/vod",
       "name": "速播资源"
     },
-    "117": {
+    "116": {
       "name": "U酷资源网",
       "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
       "detail": ""

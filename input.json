@@ -483,67 +483,57 @@
       "detail": "https://cj.lzcaiji.com"
     },
     "104": {
-      "name": "🎬豪华资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
-      "detail": "https://www.haohuazy.com"
-    },
-    "105": {
-      "name": "🎬百度云zy",
-      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
-      "detail": "https://bdzy1.com"
-    },
-    "106": {
       "api": "https://dbzy.tv/api.php/provide/vod",
       "name": "豆瓣资源"
     },
-    "107": {
+    "105": {
       "name": "🎬魔都动漫",
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "detail": "https://caiji.moduapi.cc"
     },
-    "108": {
+    "106": {
       "_comment": "污染搜索结果",
       "name": "🎬虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "detail": "https://www.huyaapi.com"
     },
-    "109": {
+    "107": {
       "name": "虎牙",
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "detail": "https://www.huyaapi.com"
     },
-    "110": {
+    "108": {
       "name": "七七影视",
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "detail": "https://www.qiqidys.com"
     },
-    "111": {
+    "109": {
       "api": "https://www.ckzy1.com/api.php/provide/vod",
       "name": "CK资源18"
     },
-    "112": {
+    "110": {
       "api": "https://api.yzzy-api.com/inc/apijson.php/provide/vod",
       "name": "优质资源库",
       "detail": "yzzy.tv"
     },
-    "113": {
+    "111": {
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "name": "虎牙|点播"
     },
-    "114": {
+    "112": {
       "api": "https://subocaiji.com/api.php/provide/vod/",
       "name": "速博|点播"
     },
-    "115": {
+    "113": {
       "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
       "name": "魔都|点播"
     },
-    "116": {
+    "114": {
       "name": "🎬虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "detail": "https://www.huyaapi.com"
     },
-    "117": {
+    "115": {
       "api": "https://vod.199301.xyz",
       "name": "test2"
     }

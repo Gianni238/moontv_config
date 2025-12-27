@@ -596,8 +596,34 @@
       "api": "https://subocj.com/api.php/provide/vod"
     },
     "128": {
-      "name": "金蝉官采影视采集站采集接口",
-      "api": "http://zy.jinchancaiji.com/api.php/provide/vod"
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源",
+      "detail": "https://hhzyapi.com"
+    },
+    "129": {
+      "name": "🎬如意资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": "https://www.ryzyw.com"
+    },
+    "130": {
+      "name": "🎬豪华资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://www.haohuazy.com"
+    },
+    "131": {
+      "name": "🎬百度云zy",
+      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "detail": "https://bdzy1.com"
+    },
+    "132": {
+      "name": "淘片",
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "detail": "https://www.taopianzy.com/index.html"
+    },
+    "133": {
+      "name": "雨哥哥资源",
+      "api": "http://cj.baozi66.top:66/api.php/provide/vod",
+      "detail": "http://cj.baozi66.top:66"
     }
   },
   "custom_category": [
@@ -742,34 +768,14 @@
       "query": "纪录片"
     },
     {
-      "name": "犯罪",
-      "type": "movie",
-      "query": "犯罪"
-    },
-    {
-      "name": "战争",
-      "type": "movie",
-      "query": "战争"
-    },
-    {
-      "name": "西部",
-      "type": "movie",
-      "query": "西部"
-    },
-    {
-      "name": "治愈",
-      "type": "movie",
-      "query": "治愈"
-    },
-    {
-      "name": "动漫",
-      "type": "tv",
-      "query": "日本动画"
-    },
-    {
       "name": "奇幻",
       "type": "movie",
       "query": "奇幻"
+    },
+    {
+      "name": "犯罪",
+      "type": "movie",
+      "query": "犯罪"
     },
     {
       "name": "惊悚",
@@ -782,6 +788,11 @@
       "query": "灾难"
     },
     {
+      "name": "战争",
+      "type": "movie",
+      "query": "战争"
+    },
+    {
       "name": "国产",
       "type": "tv",
       "query": "国产剧"
@@ -790,6 +801,11 @@
       "name": "纪录",
       "type": "tv",
       "query": "纪录片"
+    },
+    {
+      "name": "治愈",
+      "type": "movie",
+      "query": "治愈"
     }
   ]
 }
